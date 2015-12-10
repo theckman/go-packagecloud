@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/hashicorp/cleanhttp"
+	"github.com/hashicorp/go-cleanhttp"
 )
 
 // Version is WISOTT.
